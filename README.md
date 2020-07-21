@@ -1,10 +1,16 @@
-# Video Game Autoclickers
+# Minecraft Autoscroll
 
 
-A few different autoclickers for games that allow them.
+A simple solution to randomized building.
 
 
-Not many games allow Autoclickers in their game, some allow them under certain conditions, or some completely allow them or prohibit them. The Branches in this GitHub Repo will provide you with safe Autoclickers for video games that allow them conditionally or completely.
+Minecraft is a game where creativity is key, as is survival. For the creativity side of things, some people like a randomized look from a specific block palette. Whether it be a floor, ceiling, or roof, this autoscroll program has you covered!
 
 
-- [Minecraft Autoscroll for Randomized Building]() 
+### How do I use this?
+
+
+It's actually very simple! Press CTRL + Alt + Q to start the autoscroll script. Press F9 to Stop. Press F8 to Exit the app. When the script is running, use your Place button (typically Right Click) and the script should randomize the blocks you place.
+
+
+> [MCAutoScroll](https://github.com/NotNotJustin/video-game-autoclickers/tree/minecraft-scroll/releases) 
