@@ -10,7 +10,7 @@ ROBLOX is a platform where players get to design their own games. Club ROBLOX ta
 ### How do I use this?
 
 
-The program is very similar to the Minecraft Autoscroll program. Press CTRL + Alt + Q to start the farming script. Press F9 to Stop. Press F8 to Exit the app. When the script is running, you must be at a machine that has an interact button INSIDE of the Pizza Place. As far as I know, this only works there.
+The program is very similar to the Minecraft Autoscroll program. Press CTRL + Alt + Q to start the farming script. Press F9 to Stop. Press F10 to Reload the app. When the script is running, you must be at a machine that has an interact button INSIDE of the Pizza Place. As far as I know, this only works there.
 
 
 
