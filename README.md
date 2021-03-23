@@ -4,7 +4,7 @@
 An easy way to farm tokens for getting new Pets and adopting new babies.
 
 
-ROBLOX is a platform where players get to design their own games. Club ROBLOX takes advantage of a lot of ROBLOX's features and is very intuitive in its design. The only problem one might run in to is the tokens, or lack thereof. So I've designed this program to automatically form the tokens at the Pizza Place for you so you can get tokens, even while asleep.
+ROBLOX is a platform where players get to design their own games. Club ROBLOX takes advantage of a lot of ROBLOX's features and is very intuitive in its design. The only problem one might run in to is the tokens, or lack thereof. So I've designed this program to automatically farm the tokens at the Pizza Place for you so you can get tokens, even while asleep.
 
 
 ### How do I use this?
